@@ -1,6 +1,19 @@
 # Camps
 Intento de versión de Yelp para campamentos en total proceso. Solo la estructura funcional mínima está realizada.
+Pequeño proyecto para probar nodeJS
 
+** Si funciona: **
+* registro y login
+* CRUD de campamentos
+* CRUD de comentarios
+
+** No funciona: **
+* todo el resto
+    * registro/login social
+    * faltan datos en los formularios
+    * estética no tan bootstrap
+    * secciones de contacto, about
+    * eterno etc...
 
 ### [DEMO](https://thawing-savannah-45670.herokuapp.com/)
 Una demo de este código está subida a Heroku y la db realizada en mLAB
