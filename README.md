@@ -2,12 +2,12 @@
 Intento de versión de Yelp para campamentos en total proceso. Solo la estructura funcional mínima está realizada.
 Pequeño proyecto para probar nodeJS
 
-** Si funciona: **
+**Si funciona:**
 * registro y login
 * CRUD de campamentos
 * CRUD de comentarios
 
-** No funciona: **
+**No funciona:**
 * todo el resto
     * registro/login social
     * faltan datos en los formularios
